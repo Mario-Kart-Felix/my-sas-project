@@ -1,0 +1,91 @@
+
+A comparison of anti-phishing tools in 2004.[8]
+Tool	Communication media	Device	Countermeasure type	Performance metrics	User study conducted?
+Anti-phish	Website/browser add-on	PC	Profile matching /usage history	-	-
+BogusBiter	Website/browser add-on	PC	Client server authentication	Page load delay	No
+Cantina+	Website/browser add-on	PC	Machine learning /classification	TPR ˜ 0.92
+FPR ˜ 0.040
+
+No
+Quero	Website/browser add-on	PC	Text mining /regular expressions	-	-
+Itrustpage	Website/browser add-on	PC	Profile matching/ blacklist	Accuracy=0.98	Yes
+SpoofGuard	Website	PC	Profile matching / pattern	TPR˜0.972,
+Accuracy˜0.67
+
+No
+PhishZoo	Website	PC	Profile matching/ pattern	Accuracy˜0.96,
+FPR˜0.01
+
+No
+B-APT	Website	PC	Machine learning/
+classification
+
+Page load delay
+˜ 51.05ms,
+
+TPR˜1,FP˜0.03
+
+No
+PhishTester	Website	PC	Profile matching/ pattern	FNR˜0.03, FPR˜0	No
+DOM AntiPhish	Website	PC	Profile matching/ layout	FNR˜0, FPR˜0.16	No
+GoldPhish	Website	PC	Search engines	TPR˜0.98,FPR˜0.02	No
+PhishNet	Website	PC	Profile matching /blacklist	FNR˜0.05,
+FPR˜0.03
+
+No
+PhorceField	Website	PC	Client server authentication	Bits of Security Lost per user?=?0.2	Yes
+PassPet	Website	PC	Profile matching/ usage history	Security and Usability	Yes
+PhishGuard	Website	PC	Client server authentication	-	-
+PhishAri	Social network	PC	Machine learning /classification	Precision?=?0.95,
+Recall?=?0.92
+
+Yes
+MobiFish	Mobile	Smart Phone	Profile matching/ layout	TPR˜1	No
+AZ-protect	Website	PC	Machine learning /classification	Precision?=?0.97,
+Recall?=?0.96
+
+No
+eBay AG	Website/browser add-on	PC	Machine learning /classification	Precision?=?1,
+Recall?=?0.55
+
+No
+Netcraft	Website/browser add-on	PC	Profile matching /blacklist	Precision?=?0.99,
+Recall =0.86
+
+No
+EarthLink	Website/browser add-on	PC	Profile matching /blacklist	Precision?=?0.99,
+Recall?=?0.44
+
+No
+IE Filter	Website/browser add-on	PC	Profile matching /blacklist	Precision?=?1,
+Recall?=?0.75
+
+No
+FirePhish	Website/browser add-on	PC	Profile matching /blacklist	Precision?=?1,
+Recall ?=?0.77
+
+No
+Sitehound	Website/browser add-on	PC	Profile matching /blacklist	Precision?=?1,
+Recall?=?0.23
+
+No
+DNS filtering
+DNS is the layer at which botnets control drones. In 2006, OpenDNS began offering a free service to prevent users from entering website spoofing sites. Essentially, OpenDNS has gathered a large database from various anti-phishing and anti-botnet organizations as well as its own data to compile a list of known website spoofing offenders. When a user attempts to access one of these bad websites, they are blocked at the DNS level. APWG statistics show that most phishing attacks use URLs, not domain names, so there would be a large amount of website spoofing that OpenDNS would be unable to track. At the time of release, OpenDNS is unable to prevent unnamed phishing exploits that sit on Yahoo, Google etc.[9]
+
+See also
+Email spoofing – Creating email spam or phishing messages with a forged sender identity or address
+Fake news website – Website that deliberately publishes hoaxes and disinformation purporting to be real news
+Login spoofing – Techniques used to steal a user's password
+Phishing – Act of attempting to acquire sensitive information by posing as a trustworthy entity
+Spoofing attack – Cyber attack in which a person or program successfully masquerades as another by falsifying data
+Referer spoofing – Practice in HTTP networking of intentionally sending incorrect referer information
+References
+ "Spoof website will stay online", BBC News, 29 July 2004
+ http://www.cs.princeton.edu/sip/pub/spoofing.pdf
+ Anti-Phishing Technology", Aaron Emigh, Radix Labs, 19 January 2005
+ https://www.theregister.com/AMP/2017/04/18/homograph_attack_again/
+ https://www.engadget.com/amp/2017-04-17-google-chrome-phishing-unicode-flaw.html
+ See e.g. [1] or [2]
+ "Fake Sites Insist Microsoft Bought Firefox", Gregg Keizer, InformationWeek, 9 November 2006
+ "Phishing environments, techniques, and countermeasures: A survey". Computers & Security. 68 (4): 280. July 2017. doi:10.1016/s0167-4048(04)00129-4. ISSN 0167-4048.
+ "Dark Reading | Security | Protect The Business - Enable Access". Dark Reading. Retrieved 2018-06-29.
